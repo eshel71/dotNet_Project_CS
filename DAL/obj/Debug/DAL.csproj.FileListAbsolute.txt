@@ -1,0 +1,29 @@
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DAL.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DAL.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\BE.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DS.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\BE.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DS.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DAL.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DAL.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\BE.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DS.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\BE.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DS.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DAL.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DAL.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\BE.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DS.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\BE.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DAL\bin\Debug\DS.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DAL\obj\Debug\DAL.pdb

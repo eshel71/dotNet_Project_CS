@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<nannies>
+  <nanny>
+    <id>118190410</id>
+    <firstName>Shifra</firstName>
+    <lastName>Dola</lastName>
+    <dateOfBirth>1984-12-02T00:00:00</dateOfBirth>
+    <cellphone>052-6780961</cellphone>
+    <address>Gedera Shimon 15</address>
+    <elvatorExist>False</elvatorExist>
+    <floor>5</floor>
+    <experience>5</experience>
+    <maxChildNumber>10</maxChildNumber>
+    <maxChildAge>15</maxChildAge>
+    <minChildAge>5</minChildAge>
+    <perHourSalary>True</perHourSalary>
+    <hourlyWage>40</hourlyWage>
+    <monthlyWage>3000</monthlyWage>
+    <workDays>7,True,True,True,True,True,True,False</workDays>
+    <schedule>2,6,9,9,9,9,9,9,15,15,15,15,15,15</schedule>
+    <HolidaysByTMT>False</HolidaysByTMT>
+    <Recommendation>works in the united states</Recommendation>
+    <NumOfContract>2</NumOfContract>
+  </nanny>
+  <nanny>
+    <id>218199410</id>
+    <firstName>Lima</firstName>
+    <lastName>Lim</lastName>
+    <dateOfBirth>1995-12-02T00:00:00</dateOfBirth>
+    <cellphone>052-6340961</cellphone>
+    <address>Gedera Efraim 10</address>
+    <elvatorExist>True</elvatorExist>
+    <floor>0</floor>
+    <experience>0</experience>
+    <maxChildNumber>5</maxChildNumber>
+    <maxChildAge>18</maxChildAge>
+    <minChildAge>5</minChildAge>
+    <perHourSalary>True</perHourSalary>
+    <hourlyWage>30</hourlyWage>
+    <monthlyWage>3000</monthlyWage>
+    <workDays>7,False,True,True,True,True,True,False</workDays>
+    <schedule>2,6,9,9,9,9,9,9,15,15,15,15,15,15</schedule>
+    <HolidaysByTMT>True</HolidaysByTMT>
+    <Recommendation>worked 2 years with special kids</Recommendation>
+    <NumOfContract>1</NumOfContract>
+  </nanny>
+  <nanny>
+    <id>315199410</id>
+    <firstName>Dina</firstName>
+    <lastName>Din</lastName>
+    <dateOfBirth>1995-08-02T00:00:00</dateOfBirth>
+    <cellphone>052-634877</cellphone>
+    <address>HaUman Street Jerusalem 15</address>
+    <elvatorExist>true</elvatorExist>
+    <floor>2</floor>
+    <experience>5</experience>
+    <maxChildNumber>7</maxChildNumber>
+    <maxChildAge>15</maxChildAge>
+    <minChildAge>3</minChildAge>
+    <perHourSalary>true</perHourSalary>
+    <hourlyWage>35</hourlyWage>
+    <monthlyWage>3050</monthlyWage>
+    <workDays>7,True,False,True,True,True,True,False</workDays>
+    <schedule>2,6,9,9,9,9,9,9,15,15,19,15,15,15</schedule>
+    <HolidaysByTMT>true</HolidaysByTMT>
+    <Recommendation>works in the united kinkdom</Recommendation>
+    <NumOfContract>0</NumOfContract>
+  </nanny>
+  <nanny>
+    <id>418199450</id>
+    <firstName>Zippi</firstName>
+    <lastName>Alfasi</lastName>
+    <dateOfBirth>1995-12-02T00:00:00</dateOfBirth>
+    <cellphone>052-6340961</cellphone>
+    <address>kiryat shmona</address>
+    <elvatorExist>true</elvatorExist>
+    <floor>3</floor>
+    <experience>3</experience>
+    <maxChildNumber>2</maxChildNumber>
+    <maxChildAge>13</maxChildAge>
+    <minChildAge>2</minChildAge>
+    <perHourSalary>false</perHourSalary>
+    <hourlyWage>60</hourlyWage>
+    <monthlyWage>3000</monthlyWage>
+    <workDays>7,True,True,True,True,True,True,False</workDays>
+    <schedule>2,6,9,9,9,9,9,9,15,15,15,15,15,15</schedule>
+    <HolidaysByTMT>true</HolidaysByTMT>
+    <Recommendation>works in the united states</Recommendation>
+    <NumOfContract>0</NumOfContract>
+  </nanny>
+  <nanny>
+    <id>518139410</id>
+    <firstName>Yafa</firstName>
+    <lastName>Sasson</lastName>
+    <dateOfBirth>1995-12-02T00:00:00</dateOfBirth>
+    <cellphone>052-6340961</cellphone>
+    <address>Rehovot Yakov 3</address>
+    <elvatorExist>true</elvatorExist>
+    <floor>1</floor>
+    <experience>5</experience>
+    <maxChildNumber>5</maxChildNumber>
+    <maxChildAge>20</maxChildAge>
+    <minChildAge>2</minChildAge>
+    <perHourSalary>true</perHourSalary>
+    <hourlyWage>50</hourlyWage>
+    <monthlyWage>3500</monthlyWage>
+    <workDays>7,True,True,True,True,True,True,False</workDays>
+    <schedule>2,6,11,9,9,9,9,9,15,15,15,15,15,15</schedule>
+    <HolidaysByTMT>false</HolidaysByTMT>
+    <Recommendation>very responsible person</Recommendation>
+    <NumOfContract>0</NumOfContract>
+  </nanny>
+  <nanny>
+    <id>618185410</id>
+    <firstName>Saud</firstName>
+    <lastName>Arela</lastName>
+    <dateOfBirth>1995-12-02T00:00:00</dateOfBirth>
+    <cellphone>052-6340961</cellphone>
+    <address>Gedera Shapira 15</address>
+    <elvatorExist>true</elvatorExist>
+    <floor>0</floor>
+    <experience>10</experience>
+    <maxChildNumber>3</maxChildNumber>
+    <maxChildAge>9</maxChildAge>
+    <minChildAge>6</minChildAge>
+    <perHourSalary>false</perHourSalary>
+    <hourlyWage>30</hourlyWage>
+    <monthlyWage>4000</monthlyWage>
+    <workDays>7,True,True,True,True,True,True,False</workDays>
+    <schedule>2,6,9,9,9,9,9,9,15,15,15,15,15,14</schedule>
+    <HolidaysByTMT>true</HolidaysByTMT>
+    <Recommendation></Recommendation>
+    <NumOfContract>0</NumOfContract>
+  </nanny>
+</nannies>

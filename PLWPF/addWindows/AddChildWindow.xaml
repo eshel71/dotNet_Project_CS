@@ -1,0 +1,61 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLWPF.AddChildWindow"
+        mc:Ignorable="d"
+        Title="AddChildWindow" Height="488" Width="532.533">
+    <Window.Resources>
+        <CollectionViewSource x:Key="childViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Child}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" Margin="0,0,0,0.2" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Button Content="Cancel" Margin="27,10,26,10" FontSize="20" Click="Click_cancel" />
+            <Button Content="Add " Grid.Column="1" Margin="27,10,26,10" FontSize="20" Click="Click_ok"  />
+        </Grid>
+        <Grid x:Name="titleGrid" >
+            <TextBlock x:Name="title" Text="Add Chlid" Style="{StaticResource titleStyle}"  />
+        </Grid>
+        <Grid >
+            <Grid x:Name="grid1" VerticalAlignment="Top" Margin="10,79,0,0" HorizontalAlignment="Left" DataContext="{StaticResource childViewSource}" Height="254" Width="426">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Label VerticalAlignment="Center" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Date Of Birth:"/>
+                <DatePicker x:Name="dateOfBirthDatePicker" VerticalAlignment="Center" SelectedDate= "1.15.2018" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="1"/>
+                <Label VerticalAlignment="Center" Grid.Row="1" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="First Name:"/>
+                <TextBox x:Name="firstNameTextBox" Width="120" VerticalAlignment="Center" Grid.Row="1" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+                <Label VerticalAlignment="Center" Grid.Row="2" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Id:"/>
+                <TextBox x:Name="idTextBox" Width="120" VerticalAlignment="Center" Grid.Row="2" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1" />
+                <Label VerticalAlignment="Center" Grid.Row="3" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Is Special Needs:"/>
+                <CheckBox x:Name="isSpecialNeedsCheckBox" VerticalAlignment="Center" Grid.Row="3" Margin="3" IsChecked="False" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+                <Label VerticalAlignment="Center" Grid.Row="4" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="choose mother:"/>
+                <Label VerticalAlignment="Center" Grid.Row="5" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Special Needs:"/>
+                <TextBox x:Name="specialNeedsTextBox" Width="120" VerticalAlignment="Center" Grid.Row="5" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+                <ComboBox Name="motherCB" Grid.Column="1" Grid.Row="4"  />
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,152 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLWPF.AddNannyWindow"
+        mc:Ignorable="d"
+        Title="AddNannyWindow" Height="872.967" Width="797.5"  >
+    <Window.Resources>
+        <CollectionViewSource x:Key="nannyViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Nanny}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid x:Name="titleGrid" Margin="0,0,18,17" >
+        <TextBlock x:Name="title" Text="Add Nanny:" Style="{StaticResource titleStyle}" />
+        <Grid />
+        <Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="409*" />
+                <ColumnDefinition Width="412*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="308*"/>
+                <RowDefinition Height="59*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1" Margin="0,34,10,0" Grid.ColumnSpan="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button Content="Cancel" Margin="27,10,26,10" FontSize="20" Click="Click_cancel" />
+                <Button Content="Add" Grid.Column="1" Margin="27,10,26,10" FontSize="20" Click="Click_ok" />
+            </Grid>
+            <Grid  VerticalAlignment="Bottom" DataContext="{StaticResource nannyViewSource}" Grid.ColumnSpan="2" Height="697" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="307*"/>
+                    <ColumnDefinition Width="301*"/>
+                </Grid.ColumnDefinitions>
+                <Grid x:Name="grid1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="610" Width="427" Margin="17,10,0,0" RenderTransformOrigin="0.5,0.5">
+                    <Grid.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.03"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Grid.RenderTransform>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="Address:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="9" VerticalAlignment="Center"/>
+                    <TextBox x:Name="addressTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="9" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Cellphone:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="5" VerticalAlignment="Center"/>
+                    <TextBox x:Name="cellphoneTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Text="like: 052-1234578" Margin="2.8,0,0,5.4" Grid.Row="5" VerticalAlignment="Bottom" Width="120"/>
+                    <Label Content="Date Of Birth:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="3" VerticalAlignment="Center"/>
+                    <DatePicker x:Name="dateOfBirthDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="3" SelectedDate="1.25.18" VerticalAlignment="Center"/>
+                    <Label Content="Elevator Exist:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="7" VerticalAlignment="Center"/>
+                    <CheckBox x:Name="elevatorExistCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="False" Margin="3" Grid.Row="7" VerticalAlignment="Center"/>
+                    <Label Content="Experience:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="4" VerticalAlignment="Center"/>
+                    <TextBox x:Name="experienceTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="4" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="First Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="1" VerticalAlignment="Center"/>
+                    <TextBox x:Name="firstNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="1" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Floor:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="6" VerticalAlignment="Center"/>
+                    <TextBox x:Name="floorTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="6" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Holidays By TMT:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="10" VerticalAlignment="Center"/>
+                    <CheckBox x:Name="holidaysByTMTCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="False" Margin="3" Grid.Row="10" VerticalAlignment="Center"/>
+                    <Label Content="Hourly Wage:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="8" VerticalAlignment="Center"/>
+                    <TextBox x:Name="hourlyWageTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="8"  VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Id:" Grid.Column="0" HorizontalAlignment="Left" Grid.Row="0" Margin="0,66,0,0" Width="117" />
+                    <TextBox x:Name="idTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3,69,0,4" Grid.Row="0" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Last Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+                    <TextBox x:Name="lastNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="2" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Max Child Age:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="11" VerticalAlignment="Center"/>
+                    <TextBox x:Name="maxChildAgeTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="11" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Max Child Number:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="13" VerticalAlignment="Center"/>
+                    <TextBox x:Name="maxChildNumberTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="13" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Min Child Age:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="12" VerticalAlignment="Center"/>
+                    <TextBox x:Name="minChildAgeTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="12" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Monthly Wage:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="14" VerticalAlignment="Center"/>
+                    <TextBox x:Name="monthlyWageTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="14" VerticalAlignment="Center" Width="120"/>
+                    <Label Content="Per Hour Salary:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="16" VerticalAlignment="Center"/>
+                    <CheckBox x:Name="perHourSalaryCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="False" Margin="3" Grid.Row="16" VerticalAlignment="Center"/>
+                    <Label Content="Recommendation:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="17" VerticalAlignment="Center"/>
+                    <TextBox x:Name="recommendationTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="2.8,5.8,-36.6,5.6" Grid.Row="17" VerticalAlignment="Center" Width="177"/>
+                </Grid>
+                <Grid Grid.Column="1" Margin="0,69,0,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="306*"/>
+                        <RowDefinition Height="31*"/>
+                        <RowDefinition Height="260*"/>
+                    </Grid.RowDefinitions>
+                    <TextBox HorizontalAlignment="Left" Height="23" Margin="10,10,0,0"  Text="Schedule:" VerticalAlignment="Top" Width="78"/>
+                    <TextBox HorizontalAlignment="Left" Height="22" Margin="10,45,0,0"  Text="Sunday:" VerticalAlignment="Top" Width="78"/>
+                    <TextBox HorizontalAlignment="Left" Height="22" Margin="10,80,0,0" Text="Monday:" VerticalAlignment="Top" Width="78"/>
+                    <TextBox HorizontalAlignment="Left" Height="22" Margin="10,115,0,0"  Text="Tuesday:" VerticalAlignment="Top" Width="78" />
+                    <TextBox HorizontalAlignment="Left" Height="22" Margin="10,150,0,0"  Text="Wednesday:" VerticalAlignment="Top" Width="78" />
+                    <TextBox HorizontalAlignment="Left" Height="22" Margin="10,185,0,0"  Text="Thursday:" VerticalAlignment="Top" Width="78" />
+                    <TextBox HorizontalAlignment="Left" Height="22" Margin="10,220,0,0"  Text="Friday:" VerticalAlignment="Top" Width="78" />
+                    <TextBox HorizontalAlignment="Left" Height="22" Margin="10,255,0,0" Text="Saturday:" VerticalAlignment="Top" Width="78" />
+                    <CheckBox Name="checkSun" HorizontalAlignment="Left" Margin="108,50,0,0" VerticalAlignment="Top" IsChecked="false"/>
+                    <CheckBox Name="checkMon" HorizontalAlignment="Left" Margin="108,85,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.479,3.689" IsChecked="false"/>
+                    <CheckBox Name="checkTue" HorizontalAlignment="Left" Margin="108,120,0,0" VerticalAlignment="Top" IsChecked="false"/>
+                    <CheckBox Name="checkWed" HorizontalAlignment="Left" Margin="108,155,0,0" VerticalAlignment="Top" IsChecked="false"/>
+                    <CheckBox Name="checkThu" HorizontalAlignment="Left" Margin="108,190,0,0" VerticalAlignment="Top" IsChecked="false"/>
+                    <CheckBox Name="checkFri" HorizontalAlignment="Left" Margin="108,225,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.687,6.089" IsChecked="false"/>
+                    <CheckBox Name="checkSat" HorizontalAlignment="Left" Margin="108,260,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.646,2.356" IsEnabled="false"/>
+                    <TextBox Name="enterSun" HorizontalAlignment="Left" Height="22" Margin="154,45,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkSun,Path=IsChecked}"/>
+                    <TextBox Name="enterMon" HorizontalAlignment="Left" Height="22" Margin="154,80,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkMon,Path=IsChecked}"/>
+                    <TextBox Name="enterTue" HorizontalAlignment="Left" Height="22" Margin="154,115,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkTue,Path=IsChecked}"/>
+                    <TextBox Name="enterWed" HorizontalAlignment="Left" Height="22" Margin="154,150,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkWed,Path=IsChecked}"/>
+                    <TextBox Name="enterThu" HorizontalAlignment="Left" Height="22" Margin="154,183,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkThu,Path=IsChecked}"/>
+                    <TextBox Name="enterFri" HorizontalAlignment="Left" Height="22" Margin="154,218,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkFri,Path=IsChecked}"/>
+                    <TextBox Name="enterSat" HorizontalAlignment="Left" Height="22" Margin="154,255,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="False" />
+                    <TextBox Name="exitSun" HorizontalAlignment="Left" Height="22" Margin="216,45,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkSun,Path=IsChecked}" />
+                    <TextBox Name="exitMon" HorizontalAlignment="Left" Height="22" Margin="216,80,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkMon,Path=IsChecked}"/>
+                    <TextBox Name="exitTue" HorizontalAlignment="Left" Height="22" Margin="216,113,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkTue,Path=IsChecked}"/>
+                    <TextBox Name="exitWed" HorizontalAlignment="Left" Height="22" Margin="216,150,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkWed,Path=IsChecked}"/>
+                    <TextBox Name="exitThu" HorizontalAlignment="Left" Height="22" Margin="216,183,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkThu,Path=IsChecked}"/>
+                    <TextBox Name="exitFri" HorizontalAlignment="Left" Height="22" Margin="216,218,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="{Binding ElementName=checkFri,Path=IsChecked}"/>
+                    <TextBox Name="exitSat" HorizontalAlignment="Left" Height="22" Margin="216,255,0,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.65,1.283" IsEnabled="False"/>
+                    <TextBox HorizontalAlignment="Left" Height="23" Margin="101,10,0,0" TextWrapping="Wrap" Text="work?" VerticalAlignment="Top" Width="41"/>
+                    <TextBox HorizontalAlignment="Left" Height="23" Margin="154,10,0,0" TextWrapping="Wrap" Text="Enter:" VerticalAlignment="Top" Width="43"/>
+                    <TextBox HorizontalAlignment="Left" Height="23" Margin="216,10,0,0" TextWrapping="Wrap" Text="Exit:" VerticalAlignment="Top" Width="37"/>
+                    <Grid Grid.Row="1">
+                        <Label Content="Note: enter the hours in 24h format, like: 9,11,15,21" FontSize="15"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+
+</Window>

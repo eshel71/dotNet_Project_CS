@@ -1,0 +1,58 @@
+﻿<Window x:Class="PLWPF.DataWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="DataWindow" Height="430.4" Width="447.733">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="91*"/>
+            <ColumnDefinition Width="202*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" >
+            <Button Name="nanniesButton" FontSize="20" Content="Nannies" Margin="9,10,9.8,10" Click="Click_nannies" MouseLeave="nanniesButton_MouseLeave" MouseMove="nanniesButton_MouseMove" />
+        </Grid>
+        <Grid Grid.Row="1" >
+            <Button Name="mothersButton" FontSize="20" Content="Mothers" Margin="10,10,9,10" Click="Click_mothers" MouseMove="mothersButton_MouseMove" MouseLeave="mothersButton_MouseLeave" />
+        </Grid>
+        <Grid Grid.Row="2" >
+            <Button Name="childsButton" FontSize="20" Content="Childs" Margin="10,10,9,10" Click="Click_child" MouseLeave="childsButton_MouseLeave" MouseMove="childsButton_MouseMove" />
+        </Grid>
+        <Grid Grid.Row="3" >
+            <Button Name="contractsButton" FontSize="20" Content="Contracts" Margin="10,10,9,10" Click="Click_Contracts" MouseLeave="contractsButton_MouseLeave" MouseMove="contractsButton_MouseMove" />
+        </Grid>
+        <Grid Grid.Column="1" Grid.RowSpan="4">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="173*"/>
+                <RowDefinition Height="27*"/>
+            </Grid.RowDefinitions>
+            <Grid  Grid.Row="1" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button Name="ExitButton" FontSize= "20"  Content="Exit" Grid.Column="1" Margin="16,10,10,9" Click="ClickExit" MouseLeave="exit_MouseLeave" MouseMove="exit_MouseMove" />
+                <Button Name="DetailButton" FontSize= "20" Content="Details" Margin="16,10,10,9" Click="Click_details" MouseLeave="detail_MouseLeave" MouseMove="detail_MouseMove" RenderTransformOrigin="0.5,0.503" />
+            </Grid>
+            <Grid >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="53*"/>
+                    <RowDefinition Height="293*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Name="title" Text="whats your selection?" Style="{StaticResource titleStyle}" />
+                <Grid Grid.Row="1" >
+                    <TextBlock FontSize="25"   TextAlignment="Center" Name="dataTextBlock"/>
+                </Grid>
+            </Grid>
+        </Grid>
+
+    </Grid>
+</Window>

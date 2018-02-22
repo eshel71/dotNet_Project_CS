@@ -1,0 +1,44 @@
+﻿<Window x:Class="PLWPF.DeleteDataWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="DeleteDataWindow" Height="356.593" Width="363.736">
+    <Grid>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Grid  Grid.Row="1">
+                <Button Content="Delete Nanny" Margin="10,10,9.6,10.2" FontSize="25" Click="Click_deleteNanny" RenderTransformOrigin="0.501,0.5"/>
+            </Grid>
+            <Grid  Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button Content="Delete Child" Margin="10,10,9.6,10.2" FontSize="25" Click="Click_deleteChild"/>
+            </Grid>
+            <Grid  Grid.Row="3">
+                <Button Content="Delete Mother" Margin="10,10,9.6,10.2" FontSize="25" Click="Click_deleteMother"/>
+            </Grid>
+            <Grid  Grid.Row="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button Content="Delete Contract" Margin="10,10,9.6,10.2" FontSize="25" Click="Click_deleteContract" />
+            </Grid>
+            <Grid >
+                <TextBlock Text="Delete Options" Style="{StaticResource titleStyle}"  />
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</Window>

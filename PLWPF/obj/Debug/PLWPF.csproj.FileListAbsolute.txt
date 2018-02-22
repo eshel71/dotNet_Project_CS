@@ -1,0 +1,152 @@
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BE.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BL.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\DAL.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BE.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BL.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BL.dll.config
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\App.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DeleteDataWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateDataWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DeleteDataWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateDataWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DataWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DataWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DetailsDataWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DetailsDataWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\deletePopupWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\deletePopupWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\App.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateMenuWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateMenuWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddChildWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddContractWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddDataWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddMotherWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddNannyWindow.g.cs
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddChildWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddContractWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddDataWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddMotherWindow.baml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddNannyWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BE.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BL.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\DAL.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BE.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BL.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BL.dll.config
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\DAL.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddChildWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddContractWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddDataWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddMotherWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddNannyWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DataWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DeleteDataWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\deletePopupWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DetailsDataWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateMenuWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateDataWindow.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\App.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\App.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddChildWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddContractWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddDataWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddMotherWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddNannyWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DataWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DeleteDataWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\deletePopupWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DetailsDataWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateMenuWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateDataWindow.baml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BE.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BL.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\DAL.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BE.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BL.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\BL.dll.config
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\DAL.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddChildWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddContractWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddDataWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddMotherWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddNannyWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DataWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DeleteDataWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\deletePopupWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DetailsDataWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateMenuWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateDataWindow.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\App.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\App.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddChildWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddContractWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddDataWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddMotherWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\addWindows\AddNannyWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DataWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DeleteDataWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\deletePopupWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\DetailsDataWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateMenuWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\UpdateDataWindow.baml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\PLWPF\obj\Debug\PLWPF.pdb

@@ -1,0 +1,57 @@
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.dll.config
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BE.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\DAL.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BE.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\DAL.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.pdb
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.dll.config
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.dll
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.pdb
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\BE.dll
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\DAL.dll
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\DS.dll
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\BE.pdb
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\DAL.pdb
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\bin\Debug\DS.pdb
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.dll
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.dll.config
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BE.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\DAL.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BE.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\DAL.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.dll.config
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BL.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BE.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\DAL.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\BE.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\DAL.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BL\obj\Debug\BL.pdb

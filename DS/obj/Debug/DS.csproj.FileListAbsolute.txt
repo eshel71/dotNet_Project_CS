@@ -1,0 +1,23 @@
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\DS.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\DS.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\BE.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\BE.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\DS.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\DS.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\BE.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\BE.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\DS.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\DS.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\BE.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DS\bin\Debug\BE.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\DS\obj\Debug\DS.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mothers>
+  <Mother>
+    <id>318190411</id>
+    <firstName>Shula</firstName>
+    <lastName>Shaoli</lastName>
+    <cellphone>052-45459854</cellphone>
+    <address>Six Days 12  Mevasseret Zion</address>
+    <areaNanny>Jerusalem</areaNanny>
+    <nannyDays>7,True,True,True,True,True,True,False</nannyDays>
+    <schedule>2,6,10,10,10,10,10,10,12,13,12,12,15,12</schedule>
+    <notes>be happy!</notes>
+  </Mother>
+  <Mother>
+    <id>418190411</id>
+    <firstName>Koka</firstName>
+    <lastName>Kola</lastName>
+    <cellphone>052-45779854</cellphone>
+    <address>Gedera Levi 20</address>
+    <areaNanny>Gedera</areaNanny>
+    <nannyDays>7,True,False,True,True,False,True,False</nannyDays>
+    <schedule>2,6,11,10,10,10,11,10,12,12,12,14,12,12</schedule>
+    <notes>have fun!</notes>
+  </Mother>
+</mothers>

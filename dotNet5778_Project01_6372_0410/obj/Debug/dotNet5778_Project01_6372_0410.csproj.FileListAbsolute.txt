@@ -1,0 +1,19 @@
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\bin\Debug\dotNet5778_Project01_6372_0410.exe.config
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\bin\Debug\dotNet5778_Project01_6372_0410.exe
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\bin\Debug\dotNet5778_Project01_6372_0410.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.exe
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.pdb
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\bin\Debug\dotNet5778_Project01_6372_0410.exe.config
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\bin\Debug\dotNet5778_Project01_6372_0410.exe
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\bin\Debug\dotNet5778_Project01_6372_0410.pdb
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.csproj.CoreCompileInputs.cache
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.exe
+C:\Users\אלון אלימלך\Desktop\הנדסת תוכנה שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\תרגילי בית\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\bin\Debug\dotNet5778_Project01_6372_0410.exe.config
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\bin\Debug\dotNet5778_Project01_6372_0410.exe
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\bin\Debug\dotNet5778_Project01_6372_0410.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.csproj.CoreCompileInputs.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.exe
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\dotNet5778_Project01_6372_0410\obj\Debug\dotNet5778_Project01_6372_0410.csprojResolveAssemblyReference.cache

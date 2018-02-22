@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contracts>
+  <Contract>
+    <transactionNumber>10000000</transactionNumber>
+    <nannyId>218199410</nannyId>
+    <childId>338190410</childId>
+    <met>true</met>
+    <contractSigned>true</contractSigned>
+    <hourlyWage>3600</hourlyWage>
+    <monthlyWage>0</monthlyWage>
+    <conType>hourly</conType>
+    <contractBegin>2014-05-06T00:00:00</contractBegin>
+    <contractEnd>2015-05-06T00:00:00</contractEnd>
+  </Contract>
+  <Contract>
+    <transactionNumber>10000001</transactionNumber>
+    <nannyId>118190410</nannyId>
+    <childId>318190410</childId>
+    <met>false</met>
+    <contractSigned>true</contractSigned>
+    <hourlyWage>0</hourlyWage>
+    <monthlyWage>3000</monthlyWage>
+    <conType>monthly</conType>
+    <contractBegin>2015-01-06T00:00:00</contractBegin>
+    <contractEnd>2015-05-06T00:00:00</contractEnd>
+  </Contract>
+  <Contract>
+    <transactionNumber>10000002</transactionNumber>
+    <nannyId>118190410</nannyId>
+    <childId>418190410</childId>
+    <met>false</met>
+    <contractSigned>true</contractSigned>
+    <hourlyWage>0</hourlyWage>
+    <monthlyWage>2940</monthlyWage>
+    <conType>monthly</conType>
+    <contractBegin>2015-01-06T00:00:00</contractBegin>
+    <contractEnd>2015-05-06T00:00:00</contractEnd>
+  </Contract>
+</contracts>

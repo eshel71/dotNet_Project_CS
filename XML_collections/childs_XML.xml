@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<childs>
+  <child>
+    <id>318190410</id>
+    <motherId>318190411</motherId>
+    <firstName>Ori</firstName>
+    <lastName>Shaoli</lastName>
+    <dateOfBirth>2005-05-03T00:00:00</dateOfBirth>
+    <isSpecialNeeds>false</isSpecialNeeds>
+    <specialNeeds></specialNeeds>
+  </child>
+  <child>
+    <id>418190410</id>
+    <motherId>318190411</motherId>
+    <firstName>Oriel</firstName>
+    <lastName>Shaoli</lastName>
+    <dateOfBirth>2004-05-03T00:00:00</dateOfBirth>
+    <isSpecialNeeds>true</isSpecialNeeds>
+    <specialNeeds>wheels chair</specialNeeds>
+  </child>
+  <child>
+    <id>338190410</id>
+    <motherId>418190411</motherId>
+    <firstName>Alon</firstName>
+    <lastName>Kola</lastName>
+    <dateOfBirth>2005-06-15T00:00:00</dateOfBirth>
+    <isSpecialNeeds>false</isSpecialNeeds>
+    <specialNeeds></specialNeeds>
+  </child>
+  <child>
+    <id>222190410</id>
+    <motherId>418190411</motherId>
+    <firstName>Yochai</firstName>
+    <lastName>Kola</lastName>
+    <dateOfBirth>2000-06-15T00:00:00</dateOfBirth>
+    <isSpecialNeeds>false</isSpecialNeeds>
+    <specialNeeds>hello world</specialNeeds>
+  </child>
+</childs>

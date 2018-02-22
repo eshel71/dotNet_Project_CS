@@ -1,0 +1,16 @@
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BE\bin\Debug\BE.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BE\bin\Debug\BE.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.dll
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BE\bin\Debug\BE.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BE\bin\Debug\BE.pdb
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.dll
+C:\Users\אלון אלימלך\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.pdb
+C:\Users\Ariel Eshel\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BE\bin\Debug\BE.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BE\bin\Debug\BE.pdb
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.dll
+C:\Users\aeshel\Desktop\dotNet5778_Project01_6372_0410\BE\obj\Debug\BE.pdb
